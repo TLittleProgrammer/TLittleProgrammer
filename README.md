@@ -19,11 +19,11 @@ I am a **Middle Unity Developer** with a strong background as a **Technical Game
 
 ### 🧪 Featured Open-Source / Tech Demo Projects
 
-*   **[Project-Name-1](link-to-repo)** — High-performance simulation showcasing Unity DOTS (Entities, Burst, Jobs).
-*   **[Project-Name-2](link-to-repo)** — Custom Roslyn Source Generator for automated ECS component binding.
+*   
+*   
 
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
-- **Email:** [your-email@example.com]
+- **LinkedIn:** [://linkedin.com]([https://www.://linkedin.com/](https://www.linkedin.com/in/danila-bladyko-2ba737219/))
+- **Email:** [danik993600@gmal.com]
