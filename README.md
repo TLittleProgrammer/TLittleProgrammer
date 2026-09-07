@@ -25,5 +25,6 @@ I am a **Middle Unity Developer** with a strong background as a **Technical Game
 ---
 
 ### 📫 Connect with me
+- **Telegram:** @TLittleProgrammer(https://t.me/TLittleProgrammer)
 - **LinkedIn:** [https://linkedin.com/danila-bladyko](https://www.linkedin.com/in/danila-bladyko-2ba737219/)
 - **Email:** danik993600@gmal.com
